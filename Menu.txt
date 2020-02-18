@@ -1,3 +1,4 @@
+.salade mega
 . Steak tartare
 . Salade norvégienne
 . Filet de dorade 
@@ -5,3 +6,4 @@
 . Nan 3.20
 Baye Baye
 poulet
+riz sauce
